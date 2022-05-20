@@ -15,7 +15,7 @@
 
 ### difficulty level 
 
-#### it is kind of asking miner get the that input which output the hash that start with some number of zeros, so difficulty level is the number of zeros that give the hash 
+#### it is kind of asking miner to get the that input which output the hash that start with some number of zeros, so difficulty level is the number of zeros that give the hash 
 #### which validate the block and add into blockchain
 
 
