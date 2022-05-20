@@ -17,6 +17,9 @@
 
 #### it is kind of asking miner to get the that input which output the hash that start with some number of zeros, so difficulty level is the number of zeros that give the hash 
 #### which validate the block and add into blockchain
+#### if you increase difficulty level. then your computer takes longer time. maybe you get exception. so try to increase max_nonce also
+
+
 
 
 # Run python mine2.py 
