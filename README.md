@@ -20,4 +20,4 @@
 
 
 # Run python mine2.py 
-# linux user try python3 mine.py
+# linux user try python3 mine2.py
